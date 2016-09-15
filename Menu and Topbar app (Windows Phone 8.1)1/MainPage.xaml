@@ -28,8 +28,9 @@
     
     <Grid>
         <ScrollViewer HorizontalAlignment="Center" 
-                      VerticalAlignment="Center"
+                      VerticalAlignment="Center"  
                       Margin="20,0">
+  
             <StackPanel>
                 <RichTextBlock HorizontalAlignment="Center" 
                            VerticalAlignment="Center" 
